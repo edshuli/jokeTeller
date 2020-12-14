@@ -29,6 +29,27 @@ The site contains the following:
 
 *We took the little robot from:* <a href="https://giphy.com/">**Giphy.com**</a>
 
+## Testing
+<hr>
+
+I was testing the application manual throughout the process of it.
+I used mainly <a href="https://developers.google.com/web/tools/chrome-devtools/">**DEVTOOLS**</a> for my testing. The site was tested on many browser like ( Google Chrome,
+Internet Explorer, Safari and Opera ) and mobile devices such as Iphone8,6s, Huaweii P20 Lite, Samsung Galaxy S10, Samsung Galaxy A20 (Chrome, Ipad, Safari) to ensure compatibility and responsiveness.
+
+The screen sizes tested on decision are the below:
+
+* Moto G4 (360 x 640)
+* Galaxy S5 (360 x 640)
+* Pixel 2  (411 x 731)
+* Pixel 2XL (411 x 823)
+* iPhone 5/SE (320 x 568)
+* iPhone 6/7/8 (375 x 667)
+* iPhone 6/7/8 Plus (414 x 736)
+* iPhone X (375 x 812)
+* iPad (768 x 1024)
+* iPad Pro (1024 x 1366)
+* Desktop (xl screens)
+
 ### Acknowledgements 
 
 * <a href="https://www.udemy.com/?utm_source=bing-brand&utm_medium=udemyads&utm_campaign=BG-Brand-Udemy_la.EN_cc.ROW&utm_term=_._ag_1219358808134939_._ad__._de_c_._dm__._pl__._ti_kwd-76210237821084_._li_2484_._pd__._&utm_term=_._pd__._kw_udemy%2B_._&matchtype=e&msclkid=a8cb22e88b6e14c02a4b7d3f06cd0006">Udemy JavaScript Course</a>
