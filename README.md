@@ -1,12 +1,13 @@
 # Joke Teller Website
 
-**For a live version of the site click <a href="">Joke Teller.</a>**
+**For a live version of the site click <a href="https://edshuli.github.io/jokeTeller/">Joke Teller.</a>**
 
 ### About
 <hr>
 
-*This website was created as part of my course at Udemmy.*
-*The purpose of it, is to entertain the users with funny and geeky jokes, especially these very difficult times we are living in. I wanted to help also in some way and that is the reason why I created this website. I hope it will make your day. *
+*This website was created as part of my course at <a href="https://www.udemy.com/?utm_source=bing-brand&utm_medium=udemyads&utm_campaign=BG-Brand-Udemy_la.EN_cc.ROW&utm_term=_._ag_1219358808134939_._ad__._de_c_._dm__._pl__._ti_kwd-76210237821084_._li_2484_._pd__._&utm_term=_._pd__._kw_udemy%2B_._&matchtype=e&msclkid=a8cb22e88b6e14c02a4b7d3f06cd0006">Udemy JavaScript Course</a>.*
+
+*The purpose of it, is to entertain the users with funny and geeky jokes, especially these very difficult times we are living in. I wanted to help also in some way and that is the reason why I created this website. I hope it will make your day.*
 
 The site contains the following:
 
